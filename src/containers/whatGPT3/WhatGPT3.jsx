@@ -14,7 +14,7 @@ const featureText3 = "GPT-3 has the potential to change life as we know it, from
 
 const WhatGPT3 = () => {
     return (
-        <div className="gpt3__whatgpt3 section__margin" id="whpt3">
+        <div className="gpt3__whatgpt3 section__margin" id="wgpt3">
             <div className="gpt3__whatgpt3-feature">
                 <Feature title={featureHeadingTitle} text={featureHeadingText} />
             </div>
