@@ -2,6 +2,7 @@ import React from 'react'
 
 import './styles.scss'
 import gpt3Logo from '../../assets/logo.svg'
+import zeLogo from '../../assets/zeLogo.svg'
 
 const currentYear = new Date().getFullYear();
 
@@ -44,6 +45,11 @@ const Footer = () => {
             <div className="gpt3__footer-copyright">
                 <p>
                     OpenAI &#169; 2015 - {currentYear} All Rights Reserved
+                </p>
+                <p>
+                    <a href="https://zaynejaz.com" target="_blank">
+                        <img src={zeLogo} alt="zayn ejaz logo" />
+                    </a>
                 </p>
             </div>
         </div>
