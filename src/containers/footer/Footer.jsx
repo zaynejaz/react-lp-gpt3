@@ -47,7 +47,7 @@ const Footer = () => {
                     OpenAI &#169; 2015 - {currentYear} All Rights Reserved
                 </p>
                 <p>
-                    <a href="https://zaynejaz.com" target="_blank">
+                    <a href="https://zaynejaz.com" target="_blank" rel="noopener" rel="noreferrer">
                         <img src={zeLogo} alt="zayn ejaz logo" />
                     </a>
                 </p>
