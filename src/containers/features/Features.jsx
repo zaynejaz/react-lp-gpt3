@@ -5,20 +5,20 @@ import './styles.scss'
 
 const featuresData = [
     {
-        title: 'Improving distrust and honesty',
-        text: 'this is some text this is some text this is some text'
+        title: 'Viable',
+        text: 'Viable helps companies better understand their customers by using GPT-3 to provide useful insights from customer feedback in easy-to-understand summaries.'
     },
     {
-        title: 'Become the tended active',
-        text: 'this is some text this is some text this is some text'
+        title: 'Fable Studio',
+        text: 'Fable Studio is creating a new genre of interactive stories and using GPT-3 to help power their story-driven “Virtual Beings.”'
     },
     {
-        title: 'Message or am nothing',
-        text: 'this is some text this is some text this is some text'
+        title: 'GPT-3 x Figma',
+        text: 'Define your UI component in simple English, and GPT3 + Figma will create full blown mockup for you. With accurate text, images and logos'
     },
     {
-        title: 'Really boy law county',
-        text: 'this is some text this is some text this is some text'
+        title: 'Algolia',
+        text: 'Algolia uses GPT-3 in their Algolia Answers product to offer relevant, lightning-fast semantic search for their customers.'
     },
 ]
 
